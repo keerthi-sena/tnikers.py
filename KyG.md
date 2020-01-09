@@ -7,4 +7,4 @@
 |-------|-------|--------------|-----------|
 | 1  | S.KEERTHANA  | 19CSA44  |keerthanaselvarajcse@gmail.com  |
 |  2 |S.DEEPA   |19CSA21   |deepa1senthilkumaran@gmail.com   |
-| 3  |M.DHARANI   |19CSA26   |dharani2692001@gmail.com   |
+| 3  |M.DHARANI   |19CSA26   |dharanim2692001@gmail.com   |
