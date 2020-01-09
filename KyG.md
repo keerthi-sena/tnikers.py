@@ -1,7 +1,7 @@
 # Project Title : tnikers 
 ### Batch NO : 05
 ### Mentor Name :K.PRASANTHINI 
-### Github Link : 
+### Github Link : github.com/keerthi-sena/tnikers.py
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
